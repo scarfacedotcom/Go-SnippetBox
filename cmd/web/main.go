@@ -1,9 +1,7 @@
 package main
 
 import (
-	// New import
-	// New import
-	"database/sql"
+	"database/sql" // New import
 	"flag"
 	"log"
 	"net/http"
